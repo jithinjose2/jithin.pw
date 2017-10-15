@@ -136,7 +136,7 @@
             	<!-- Contact List -->
                 <ul class="list-inline">
                   <li><i class="inline-icon icon-before-and-after text-primary fa fa-map-marker"></i>Kallarakkal House, Angamaly,Eranakulam,Kerala State 683572, India</li>
-                  <li><i class="inline-icon icon-before-and-after text-primary fa fa-comment"></i><a href="#">jithinjose2@gmail.com</a></li>
+                  <li><i class="inline-icon icon-before-and-after text-primary fa fa-comment"></i>jithinjose2@gmail.com</li>
                   <li><i class="inline-icon icon-before-and-after text-primary fa fa-phone"></i>+91 9400771075</li>
                 </ul>
              
@@ -146,211 +146,26 @@
         
     </section>
     <!-- Profile / End -->
-    
-    <!-- Resume -->
-	<section id="resume">
-    
-    	<div class="content padded-short">
-        	
-            <div class="row">
-            
-              <div class="col-lg-4">
-              
-              	<!-- Box - About Me -->
-                <div class="resume-box animated slide-in-top">
-                  <i class="title-icon text-blue flaticon-speech43"></i>
-                  <h3>Who am I?</h3>
-                  <p>Looking forward to associate myself in a challenging position in the field of Information Technology where my analytical and logical skills can be enhanced and hence prove my worth as an asset in a competitive environment. </p>
-                  <p>Aptitude to take up challenging assignments and interested to work on different kinds of applications and emerging technologies. Excellent comprehensive problem solving abilities. Ability to work as an individual and or as part of a team.</p>
-                  <a href="#portfolio" class="btn btn-black">See my portfolio</a> <a href="#contact" class="btn btn-default">Contact me</a>
-                </div>
-                
-                <!-- Box - Skills & Attributes -->
-                <div class="resume-box animated slide-in-left appear-second">
-                  <i class="title-icon text-green flaticon-open79"></i>
-                  <h3>Skills &amp; Attributes</h3>
-                  <!-- Sinlge skill -->
-                  <div class="skill">
-                  	<span class="skill-name">PHP & MVC Framework</span>
-                    <div class="skill-bar sb-green">
-                    	<div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                    </div>
-                  </div>
-                  <!-- Sinlge skill -->
-                  <div class="skill">
-                  	<span class="skill-name">JQuery & Angular JS</span>
-                    <div class="skill-bar sb-green">
-                    	<div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                        <div class="skill-rate-off"></div>
-                    </div>
-                  </div>
-		  <!-- Sinlge skill -->
-                  <div class="skill">
-                  	<span class="skill-name">LAMP Server Management</span>
-                    <div class="skill-bar sb-green">
-                    	<div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                        <div class="skill-rate-off"></div>
-                    </div>
-                  </div>
-                  <!-- Sinlge skill -->
-                  <div class="skill">
-                  	<span class="skill-name">HTML/CSS</span>
-                    <div class="skill-bar sb-green">
-                    	<div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                    </div>
-                  </div>
-                  <!-- Sinlge skill -->
-                  <div class="skill">
-                  	<span class="skill-name">Mysql & DBA</span>
-                    <div class="skill-bar sb-green">
-                    	<div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                        <div class="skill-rate-off"></div>
-                        <div class="skill-rate-off"></div>
-                    </div>
-                  </div>
-		  <div class="skill">
-                  	<span class="skill-name">Windows Application Development in VB 10</span>
-                    <div class="skill-bar sb-green">
-                    	<div class="skill-rate-on"></div>
-                        <div class="skill-rate-on"></div>
-                        <div class="skill-rate-off"></div>
-                        <div class="skill-rate-off"></div>
-                    </div>
-                  </div>
-                </div>
-                
-              </div>
-          	  
-              <div class="col-md-6 col-lg-4">
-              
-              	<!-- Box - Specialities -->
-                <div class="resume-box animated slide-in-right">
-                  <i class="title-icon text-red flaticon-mouse19"></i>
-                  <h3>My Specialities</h3>
-                  <!-- Speciality -->
-                  <div class="speciality">
-                  	<i class="speciality-icon text-red flaticon-bulb11"></i>
-                    <div class="speciality-content">
-                    	<h5 class="short">Web Development</h5>
-                        <p class="speciaity-description">PHP, Laravel</p>
-                    </div>
-                  </div>
-                  <!-- Speciality -->
-                  <div class="speciality">
-                  	<i class="speciality-icon text-red flaticon-codings1"></i>
-                    <div class="speciality-content">
-                    	<h5 class="short">Databases</h5>
-                        <p class="speciaity-description">MySql, MongoDB.</p>
-                    </div>
-                  </div>
-                  <!-- Speciality -->
-                  <div class="speciality">
-                  	<i class="speciality-icon text-red flaticon-shopping56"></i>
-                    <div class="speciality-content">
-                    	<h5 class="short">E-Commerce</h5>
-                        <p class="speciaity-description">Opencart based E-commerce projects.</p>
-                    </div>
-                  </div>
-                </div>
-                
-                <!-- Box - Education & Jobs -->
-                <div class="resume-box animated slide-in-left">
-                  <i class="title-icon text-yellow flaticon-document56"></i>
-                  <h3>Education & Jobs</h3>
-                  <div class="timeline">
-                  	<div class="timeline-event te-yellow">
-			    <div class="event-date">Jun 2006 - May 2008</div>
-			    <div class="event-name">Higher Secondary Education</div>
-			    <div class="event-description">ST. Thomas HSS Malayattoor</div>
-			</div>
-			<div class="timeline-event te-yellow">
-			    <div class="event-date">Jun 2008 - Dec 2012</div>
-			    <div class="event-name">B-Tech in Information Technology</div>
-			    <div class="event-description">Viswajyothi College of Engineering and Technology, Vazhakulam ,  Kerala</div>
-			</div>
-			<div class="timeline-event te-yellow">
-			    <div class="event-date">Jan 2004 - Current</div>
-			    <div class="event-name"><span itemprop="title">Software Engineer</span>, Web Development</div>
-			    <div class="event-description"><span itemprop="affiliation">Quintet Solutions Pvt Ltd</span>, Cochin, Kerala , India</div>
-			</div>
-                  </div>
-                </div>
-                
-              </div>
-              
-              <div class="col-md-6 col-lg-4">
-              
-              	<!-- Box - Languages -->
-                <div class="resume-box animated slide-in-right appear-second">
-		    <i class="title-icon text-orange flaticon-chat25"></i>
-		    <h3>Languages</h3>
-		    <div class="skill">
-			<span class="skill-name">English</span>
-			<div class="skill-bar sb-orange">
-			    <div class="skill-rate-on"></div>
-			    <div class="skill-rate-on"></div>
-			    <div class="skill-rate-on"></div>
-			    <div class="skill-rate-on"></div>
-			</div>
-		    </div>
-		    <div class="skill">
-			<span class="skill-name">Malayalam</span>
-			<div class="skill-bar sb-orange">
-			    <div class="skill-rate-on"></div>
-			    <div class="skill-rate-on"></div>
-			    <div class="skill-rate-on"></div>
-			    <div class="skill-rate-on"></div>
-			</div>
-		    </div>
-		    <div class="skill">
-			<span class="skill-name">Hindi</span>
-			<div class="skill-bar sb-orange">
-			    <div class="skill-rate-on"></div>
-			    <div class="skill-rate-on"></div>
-			    <div class="skill-rate-off"></div>
-			    <div class="skill-rate-off"></div>
-			</div>
-		    </div>
-                </div>
-                
-                <!-- Box - Hobbies -->
-                <div class="resume-box animated slide-in-bottom">
-		    <i class="title-icon text-violet flaticon-joystick4"></i>
-		    <h3>Hobbies &amp; Interests</h3>
-		    <ul class="list-group">
-			<li class="list-group-item">Coding,</li>
-			<li class="list-group-item">Coding</li>
-			<li class="list-group-item">& Coding</li>
-			<li class="list-group-item">Blogging</li>
-			<li class="list-group-item">Movies</li>
-		    </ul>
-                </div>
-                
-              </div>
-              
-            </div>
-            
-        </div>
-    
-    </section>
-    <!-- Resume / End -->
+
+    <?php require "resume.php"; ?>
     
     <!-- Portfolio -->
     <section id="portfolio">
     
     	<!-- Projects Holder -->
     	<div class="projects-holder black dark clearfix">
+            <div class="single-project animated fade-in">
+                <div class="project-image" style="width:400px;height: 340px;overflow: hidden">
+                    <img src="images/portfolio/InstantChat-A-WebSocket-Library-Implementation.jpg" alt=""  style="max-width: inherit;"/>
+                </div>
+                <div class="project-mask">
+                    <div class="project-info">
+                        <div class="project-title">PHP WebSocket Library</div>
+                        <div class="project-caption text-red">Scalable websocket library with laravel 5.5 support</div>
+                        <div class="project-buttons"><a href="https://github.com/jithinjose2/websocket" class="btn btn-red btn-sm" target="_blank">View it</a></div>
+                    </div>
+                </div>
+            </div>
           <!-- Single Project --> 
           <div class="single-project animated fade-in">
             <div class="project-image" style="width:400px;height: 340px;overflow: hidden">
@@ -380,28 +195,17 @@
           <!-- Single Project --> 
           <div class="single-project animated fade-in appear-fourth">
             <div class="project-image" style="width:400px;height: 340px;overflow: hidden">
-                <img src="images/portfolio/poojyam.png" alt=""  style="max-width: inherit;"/>
+                <img src="images/maxresdefault.png" alt=""  style="max-width: inherit;"/>
             </div>
             <div class="project-mask">
               <div class="project-info">
-                <div class="project-title">Poojyam</div>
-                <div class="project-caption text-red">Web based game designed using PHP and WebScokets</div>
+                <div class="project-title">Home Automation</div>
+                <div class="project-caption text-blue">MagicMirror Augmented Home Automation system using PHP & Websockets</div>
                 <div class="project-buttons"><a href="http://poojyam.in" class="btn btn-red btn-sm">View it</a></div>
               </div>
             </div>
           </div>
-          <div class="single-project animated fade-in">
-            <div class="project-image" style="width:400px;height: 340px;overflow: hidden">
-                <img src="images/portfolio/InstantChat-A-WebSocket-Library-Implementation.jpg" alt=""  style="max-width: inherit;"/>
-            </div>
-            <div class="project-mask">
-              <div class="project-info">
-                <div class="project-title">InstantChat</div>
-                <div class="project-caption text-red">PHP Library for easy websocket implementation</div>
-                <div class="project-buttons"><a href="http://www.techzonemind.com/php-websocket-library-two-way-real-time-communication/" class="btn btn-red btn-sm" target="_blank">View it</a></div>
-              </div>
-            </div>
-          </div>
+
           <div class="single-project animated fade-in appear-second">
             <div class="project-image" style="width:400px;height: 340px;overflow: hidden">
                 <img src="images/portfolio/APC-Admin-Memory-fragmentation.jpg" alt=""  style="max-width: inherit;"/>
@@ -439,7 +243,7 @@
     error_reporting(E_ALL);
     ini_set('display_errors',1);
     $posts  = json_decode(file_get_contents('http://www.techzonemind.com/api/get_recent_posts/'),true);
-    $excluded_tags =  array('apc-admin','facebook','communication','server-monitoring');
+    $excluded_tags =  array('apc-admin','facebook','communication','server-monitoring', 'ESP8266');
     
     ?>
     <section id="blog">
@@ -454,7 +258,12 @@
               <div class="post-carousel animated slide-in-top">
 		
 		<?php
+        $postIDs = [];
 		foreach($posts['posts'] as $post)  {
+            if (in_array($post['id'], $postIDs)) {
+                continue;
+            }
+            $postIDs[] = $post['id'];
 		    $image = "";
 		    if(isset($post['thumbnail_images']['full']['url']) && $post['thumbnail_images']['full']['width']>=500 && $post['thumbnail_images']['full']['width']>=300){
 			$image = $post['thumbnail_images']['full']['url'];
@@ -477,6 +286,7 @@
                                 <span class="post-date"><?php echo date('j F, Y',strtotime($post['modified']));?></span>
                                 <div class="post-meta">
 				    <?php
+                    $post['tags'] = array_slice($post['tags'], 0 , 2);
 				    foreach($post['tags'] as $tag) {
 					if(in_array($tag['slug'],$excluded_tags)){
 					    continue;
@@ -536,7 +346,7 @@
             <!-- Contact List -->Kallarakkal House, Angamaly,Eranakulam,Kerala State 683572, India
             <ul class="list-unstyled list-unstyled-icons">
               <li itemprop="address"><i class="inline-icon icon-before-and-after text-primary fa fa-map-marker"></i>Kallarakkal House, Angamaly,<br />Eranakulam,Kerala <br />State 683572, India</li>
-              <li><i class="inline-icon icon-before-and-after text-primary fa fa-comment"></i><a href="#">jithinjose2@gmail.com</a></li>
+              <li><i class="inline-icon icon-before-and-after text-primary fa fa-comment"></i>jithinjose2@gmail.com</li>
               <li><i class="inline-icon icon-before-and-after text-primary fa fa-phone"></i>+91 9400771075</li>
             </ul>
             <br/><br/>
@@ -544,43 +354,21 @@
             <!-- Bottom Bar -->
             <div class="bottom-bar contact-bottom-bar">
             	<div class="row">
-                	<div class="col-md-12 col-lg-6">
+                	<div class="col-md-12 col-lg-12">
                     	<h5>Check my social media!</h5>
                         <!-- Social Icons -->
                         <ul class="social-icons medium">
-                            <li><a href="https://www.facebook.com/jithin.jose.3386" rel="_blank"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="https://twitter.com/jithinjose02" rel="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://plus.google.com/+JithinJose2" rel="_blank"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="https://github.com/jithinjose2" target="_blank"><i class="fa fa-github"></i></a></li>
+                            <li><a href="https://stackoverflow.com/story/jithinjose2" target="_blank"><i class="fa fa-stack-overflow"></i></a></li>
+                            <li><a href="https://twitter.com/jithinjose02" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://plus.google.com/+JithinJose2" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/jithin-jose-08226041/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                         </ul>
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-                    	<h5>Like Me on Facebook!</h5>
-                        <!-- Like Button -->
-                        <div class="fb-like" data-href="https://www.facebook.com/jithin.jose.3386" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
                     </div>
                 </div>
             </div>
         </div>
-        
-        <!-- Contact Form -->
-       	<div id="contact-form-holder" class="dark">
-          <div class="contact-form-trigger animated slide-in-right appear-second"><i class="flaticon-mail21"></i></div>
-          <form role="form" id="contact-form" method="post">
-            <div class="form-group">
-              <label>Name:</label>
-              <input type="text" class="form-control" id="name"  name="name" placeholder="Enter your name" required>
-            </div>
-            <div class="form-group">
-              <label>Email:</label>
-              <input type="email" class="form-control" id="email"  name="email" placeholder="Enter your email" required>
-            </div>
-            <div class="form-group">
-              <label>Message:</label>
-              <textarea class="form-control" id="message" name="message" rows="3"></textarea>
-            </div>
-            <button type="submit" class="btn btn-default">Submit <i class="icon-after fa fa-chevron-right"></i></button>
-          </form>
-        </div>
+
         
     </section>
     <!-- Contact / End -->
