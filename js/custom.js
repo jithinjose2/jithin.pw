@@ -170,13 +170,7 @@ $(document).ready(function (){
 	$('.ajax-project-close').click(function() {
 		closeContent();
 	});
-	
-	/* Smooth Scrolling
-	-----------------------------------------------------*/
-	
-	$.localScroll({
-	});
-	
+
 	/* Contact
 	-----------------------------------------------------*/
 	

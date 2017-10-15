@@ -18,7 +18,18 @@
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 
-<!--[if lt IE 9]>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35006431-2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-35006431-2');
+</script>
+
+
+    <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 
@@ -76,7 +87,7 @@
     </ul>
     
     <!-- Copyright -->
-    <span class="copyright hidden-md">&copy; 2014 <b itemprop="name">Jithin Jose</b>.</span>
+    <span class="copyright hidden-md">&copy; <?php echo date('Y')?> <b itemprop="name">Jithin Jose</b>.</span>
 
 </header>
 <!-- Header / End -->
@@ -94,11 +105,13 @@
             
             	<!-- Social media -->
             	<div class="pull-left">
-                	<span class="hiddend-sm hidden-xs">Check my social media! &nbsp; &nbsp; </span>
+                	<span class="hiddend-sm hidden-xs">Check my public profiles! &nbsp; &nbsp; </span>
                     <ul class="social-icons si-pull-up">
-                        <li><a href="https://www.facebook.com/jithin.jose.3386" rel="_blank"><i class="fa fa-facebook"></i></a></li>
-			<li><a href="https://twitter.com/jithinjose02" rel="_blank"><i class="fa fa-twitter"></i></a></li>
-			<li><a href="https://plus.google.com/+JithinJose2" rel="_blank"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="https://github.com/jithinjose2" target="_blank"><i class="fa fa-github"></i></a></li>
+                        <li><a href="https://stackoverflow.com/story/jithinjose2" target="_blank"><i class="fa fa-stack-overflow"></i></a></li>
+                        <li><a href="https://twitter.com/jithinjose02" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://plus.google.com/+JithinJose2" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/jithin-jose-08226041/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                     </ul>
                 </div>
                 
@@ -112,7 +125,7 @@
 			<!-- Profile Content -->
             <div class="profile-content">
             	<h1 class="short">Jithin Jose</h1>
-                <h5>I am <span class="text-primary">professional</span> webdeveloper.</h5>
+                <h5>I am <span class="text-primary">professional</span> Backend Developer.</h5>
                 <a href="jithin.jose.pdf" class="btn btn-primary" target="_blank">Download My CV</a>
                 <a href="#contact" class="btn btn-default">Contact me</a>
             </div>
@@ -229,16 +242,16 @@
                   <div class="speciality">
                   	<i class="speciality-icon text-red flaticon-bulb11"></i>
                     <div class="speciality-content">
-                    	<h5 class="short">Web Devolopement</h5>
-                        <p class="speciaity-description">PHP, CodeIgniter , Wordpress.</p>
+                    	<h5 class="short">Web Development</h5>
+                        <p class="speciaity-description">PHP, Laravel</p>
                     </div>
                   </div>
                   <!-- Speciality -->
                   <div class="speciality">
                   	<i class="speciality-icon text-red flaticon-codings1"></i>
                     <div class="speciality-content">
-                    	<h5 class="short">Front-End Web Development</h5>
-                        <p class="speciaity-description">Specialized in HTML5,Jquery and Angularjs.</p>
+                    	<h5 class="short">Databases</h5>
+                        <p class="speciaity-description">MySql, MongoDB.</p>
                     </div>
                   </div>
                   <!-- Speciality -->
